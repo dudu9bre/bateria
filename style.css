@@ -6,7 +6,7 @@
 }
 
 html {
-    background: url("./para-amor-rock.jpg") bottom center no-repeat;
+    background: url("./para-amor-rock.jpg") center center no-repeat;
     background-size: cover;
     min-height: 100vh;
     font-size: 10px;
