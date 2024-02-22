@@ -46,6 +46,9 @@ h1 {
     transition: all .07s ease;
     cursor: pointer;
 }
+div[data-key]:focus {
+    outline: none;
+}
 .playing {
     transform: scale(1.1);
     border-color: #FFC600;
