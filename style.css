@@ -48,6 +48,7 @@ h1 {
 }
 div[data-key]:focus, div[data-key]:active {
     outline: none;
+    -webkit-tap-highlight-color: transparent;
 }
 .playing {
     transform: scale(1.1);
