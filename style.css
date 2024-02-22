@@ -46,7 +46,7 @@ h1 {
     transition: all .07s ease;
     cursor: pointer;
 }
-div[data-key]:focus {
+div[data-key]:focus, div[data-key]:active {
     outline: none;
 }
 .playing {
